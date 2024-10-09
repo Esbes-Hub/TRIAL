@@ -110,7 +110,7 @@ header .navbar {
   
 }
 .log-img{
-  max-height: 70px;
+  max-height: 70%;
   height: auto;
   width: auto;
   border-radius: 50px;
