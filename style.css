@@ -111,7 +111,7 @@ header .navbar {
 }
 .log-img{
   max-height: 50px;
-  height: auto;
+  height: 70px;
   width: auto;
   border-radius: 50%;
   filter: brightness(150%) contrast(120%);
