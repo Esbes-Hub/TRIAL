@@ -110,12 +110,13 @@ header .navbar {
   
 }
 .log-img{
-  max-height: 200px;
+  max-height: 50px;
   height: auto;
   width: auto;
   border-radius: 50%;
   filter: brightness(150%) contrast(120%);
    padding: 5px;
+   padding-left: 20px;
 }
 /* Keyframes for spinning animation */
 .navbar .nav-menu {
